@@ -2,6 +2,8 @@
 
 Golang script to automate the IDOR enumeration process.
 
+To use this script, just have any golang version installed.
+
 This script now makes GET and POST requests for each ID and prints the response. 
 
 Error handling has been improved to handle errors when creating the request, making the request, and reading the response. 
