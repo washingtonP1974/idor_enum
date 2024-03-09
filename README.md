@@ -20,7 +20,7 @@ This version of the script that does not require authentication
  
 ##   Standard:
 
-go run main.go http://ip target host
+go run main.go http://54.172.238.5:80 
 
 
 
